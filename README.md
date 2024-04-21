@@ -1,6 +1,2 @@
 # Employee-Information
-Input the information of an employee (Employee ID, First Name, Last Name, Age, Gender, County). It also allows the use to load/upload an image and select the date today. 
-It uses an SQL Server for storing data/information. 
-The program also allows the user to view/load the information stored inside the SQL Server and search from that list of information.
-It also allows the user to load a chart which shows/represent the age and scores of that employee.
-It also has a progress bar.
+This project aims to develop a user-friendly employee information management system using C#, focusing on efficient data handling and visualization. It enables users to input and store detailed employee information such as Employee ID, First Name, Last Name, Age, Gender, and County. Additionally, users can upload employee images and select the current date for timestamping entries. Leveraging an SQL Server database ensures secure and reliable data storage, while intuitive search functionality allows users to quickly retrieve specific employee records. The system also features chart visualization to represent employee age distributions and scores, providing valuable insights. A progress bar enhances user experience by indicating the status of ongoing tasks, ensuring smooth operation. This comprehensive solution streamlines workforce management processes, improving efficiency and productivity in HR departments or organizational settings.
